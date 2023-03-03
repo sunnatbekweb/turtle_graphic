@@ -34,4 +34,7 @@ for i in range(90):
     forward(100)
     left(2)
     h += 0.02
+
+# Here cycle is ended
+
 done()
